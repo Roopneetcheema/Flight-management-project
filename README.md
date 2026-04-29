@@ -17,9 +17,10 @@ This project is a Flight Management System built using Oracle SQL and Oracle APE
 - Oracle APEX
 
 ## How to Run
-1. Import database SQL file
-2. Import APEX application file
-3. Run the application
+1. Run SQL Codes into Oracle SQL Workshop
+   or
+1. Import apex_app.sql into Oracle APEX (App Builder → Import)
+2. Run application
 
 ## Author
 Roopneet Cheema
